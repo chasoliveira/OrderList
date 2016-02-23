@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\OrderList\OrderList\bin\Debug\OrderList.exe.config
+D:\Documents\Visual Studio 2015\Projects\OrderList\OrderList\bin\Debug\OrderList.exe
+D:\Documents\Visual Studio 2015\Projects\OrderList\OrderList\bin\Debug\OrderList.pdb
+D:\Documents\Visual Studio 2015\Projects\OrderList\OrderList\obj\Debug\OrderList.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\OrderList\OrderList\obj\Debug\OrderList.exe
+D:\Documents\Visual Studio 2015\Projects\OrderList\OrderList\obj\Debug\OrderList.pdb
